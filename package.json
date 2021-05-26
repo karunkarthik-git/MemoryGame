@@ -1,0 +1,31 @@
+{
+  "name": "memory-game-react-hooks",
+  "version": "1.0.0",
+  "description": "Memory Game with React Hooks",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-sass": "^4.0.0",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.1.8",
+    "bootstrap": "^4.4.1",
+    "react-bootstrap": "^1.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
